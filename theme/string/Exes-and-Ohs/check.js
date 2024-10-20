@@ -58,3 +58,4 @@ function equalChars(str) {
 
   return countX === countO;
 }
+
