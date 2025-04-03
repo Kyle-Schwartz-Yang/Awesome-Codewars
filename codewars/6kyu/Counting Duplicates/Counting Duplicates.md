@@ -53,8 +53,7 @@ function duplicateCount(text) {
 function duplicateCount(text) {
 
     let duplicate = text.toLowerCase();
-    let 
-	= [];  // Масив для підрахунку
+    let = [];  // Масив для підрахунку
     let duplicates = 0;
     
     // Рахуємо кількість кожного символу
