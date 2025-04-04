@@ -20,7 +20,7 @@ function solution(str){
    let result = [];
 	
 	for(let i = 0; i < str.length; i += 2){
-		let res = str[i] + (str[i + 1] || "_")
+		let res = str[i] + ( str[i + 1] || "_" )
 		result.push(res);
 	}
 	

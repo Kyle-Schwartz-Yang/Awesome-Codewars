@@ -29,7 +29,7 @@ console.log(password("!@#$%^&*()-_+={}[]|\:;?/>.<,")); ===> false
 
 ---
 
-### `Array` ( mine ) 🟢
+### `Array` [ mine ] 🟢
 
 ```js
 function password(str) {
