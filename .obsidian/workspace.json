@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codewars/x7-8kyu/Validate-pin/Validate-pin.md",
+                "file": "codewars/7kyu/Square Every Digit/Square Every Digit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Validate-pin"
+              "title": "Square Every Digit"
             }
           }
         ]
@@ -170,6 +170,9 @@
   },
   "active": "0415ecee32a73ff4",
   "lastOpenFiles": [
+    "codewars/x7-8kyu/Validate-pin/Validate-pin.md",
+    "codewars/7kyu/Square Every Digit/Square Every Digit.md",
+    "codewars/7kyu/Square Every Digit",
     "codewars/x7-8kyu/sum-of-positive/sum-of-positive.md",
     "codewars/x7-8kyu/SquareSum/SquareSum.md",
     "codewars/x7-8kyu/School_Paperwork/School_Paperwork.md",
@@ -194,8 +197,6 @@
     "codewars/x7-8kyu/Basic.Mathematical.Operations/Basic Mathematical Operations.md",
     "codewars/6kyu/Split Strings/Split Strings.md",
     "codewars/6kyu/Stop gninnipS My sdroW!/Stop gninnipS My sdroW!.md",
-    "codewars/7kyu/Vowel Count/Vowel Count.md",
-    "codewars/7kyu/Password validator/Password validator.md",
     "codewars/6kyu/Who likes it",
     "shared/other/Доп.Завдання/multiplesOf3Or5/check.js",
     "shared/other/Доп.Завдання/multiplesOf3Or5",
@@ -204,7 +205,6 @@
     "shared/other",
     "shared/List",
     "shared",
-    "codewars/x7-8kyu/SquareSum/scheck.ts",
-    "codewars/x7-8kyu/SquareSum/check.js"
+    "codewars/x7-8kyu/SquareSum/scheck.ts"
   ]
 }
