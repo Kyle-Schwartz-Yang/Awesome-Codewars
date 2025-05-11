@@ -12,3 +12,31 @@
 - Якщо `a = [1, 2]`, а `b = [1]`, то результат повинен бути `[2]`.
     
 - Якщо `a = [1, 2, 2, 2, 3]`, а `b = [2]`, то результат повинен бути `[1, 3]`.
+
+---
+
+### GPT 
+```ts
+function arrayDiff<T>(a: T[], b: T[]): T[] {
+  return a.filter((item) => !b.includes(item));
+}
+
+console.log(arrayDiff<number>([1, 2, 3, 3], [3, 4, 4, 5]));
+```
+
+
+### SOLO
+
+```ts
+function arrayDiff<T>(a: T[], b: T[]): T[] {
+  let result = [];
+  for (let i = 0; i < a.length; i++) {
+    const elem = a[i];
+    if (!b.includes(elem)) result.push(elem);
+  }
+  return result;
+}
+
+
+console.log(arrayDiff<number>([1, 2, 3, 3], [3, 4, 4, 5]));
+```
